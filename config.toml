@@ -1,4 +1,9 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'PDF Demo'
 theme = 'ananke'
+
+
+[[module.imports]]
+    path = "github.com/AlanTanner/pdfjs-hugo-module"
+    disabled = false
