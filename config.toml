@@ -1,4 +1,4 @@
-baseURL = 'https://polite-stone-0de443110.2.azurestaticapps.net/posts/pdfdemo/'
+baseURL = 'https://polite-stone-0de443110.2.azurestaticapps.net/'
 languageCode = 'en-us'
 title = 'PDF Demo'
 theme = 'ananke'
