@@ -1,4 +1,4 @@
-github.com/AlanTanner/hugo-shortcode-pdf v0.0.0-20230214014301-472addaf8169 h1:lzeXCBWxNbSQebfZtphggT7u28S7YMpPyppCDWeAJB8=
-github.com/AlanTanner/hugo-shortcode-pdf v0.0.0-20230214014301-472addaf8169/go.mod h1:S2mnRlF8yDv9NwqaUOfXooRDZsM4qXj7fqoNBp+/k0g=
-github.com/AlanTanner/pdfjs-hugo-module v0.0.0-20230214022910-59854151c6ad h1:FSoH6XbnOI3OrdDo+c7dxeKIjPe5myZxHrMwG9Maxtk=
-github.com/AlanTanner/pdfjs-hugo-module v0.0.0-20230214022910-59854151c6ad/go.mod h1:zl3YTpjHiW8VmkX9VuqihEU+z0AJrVqCuLdpKMtdZhw=
+github.com/AlanTanner/pdfjs-hugo-module v0.0.0-20230218013119-055479d52775 h1:RtZsldlnPPD8xQ62sEi2eX3FToQoFmd6lLMCV2iei1I=
+github.com/AlanTanner/pdfjs-hugo-module v0.0.0-20230218013119-055479d52775/go.mod h1:rDKGlupurJcLDdZmbZKYq4SZabM9Q+68VLpzTk7vz/w=
+github.com/AlanTanner/pdfjs-hugo-module v0.0.0-20230218014928-7292b5dab28d h1:CpIfYFri8lQQmnOsPX8X7AIAFzuJ2HrdqBthKwEXXKM=
+github.com/AlanTanner/pdfjs-hugo-module v0.0.0-20230218014928-7292b5dab28d/go.mod h1:rDKGlupurJcLDdZmbZKYq4SZabM9Q+68VLpzTk7vz/w=
